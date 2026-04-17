@@ -11,6 +11,10 @@ requires-python = ">=3.10"
 authors = [
     {name = "Francesca Capel", email = "capel.francesca@gmail.com"},
     {name = "Julian Kuhlmann", email = "julian.kuhlmann@mpp.mpg.de"},
+    {name = "Christian Haack"},
+    {name = "Martin Ha Minh"},
+    {name = "Hans Niederhausen"},
+    {name = "Lisa Schumacher"},
 ]
 maintainers = [
     {name = "Julian Kuhlmann", email = "julian.kuhlmann@mpp.mpg.de"},
